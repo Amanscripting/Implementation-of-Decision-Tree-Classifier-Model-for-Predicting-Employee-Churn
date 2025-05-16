@@ -25,9 +25,6 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: AMAN ALAM
 RegisterNumber:  212224240011
 
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Akash M
-RegisterNumber:  212224230013
 from google.colab import drive
 drive.mount('/content/drive')
 from google.colab import files
